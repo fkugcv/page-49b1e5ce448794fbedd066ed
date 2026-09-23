@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "689f51f5e84359ab8d3c71fe",
+  "owner": "fkugcv",
+  "repo": "page-49b1e5ce448794fbedd066ed",
+  "title": "仓鼠宝宝",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "49b1e5ce448794fbedd066ed",
+      "a": "仓鼠宝宝",
+      "b": "机场官网线路发布页",
+      "entity": "仓鼠宝宝",
+      "brand": "仓鼠宝宝",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "72b03830c5ecdf34cef421a491e03db3b6bf32dee4d8f7c88398cedddd94bdb1",
+      "content": {
+        "primary_entity": "仓鼠宝宝",
+        "keyword1": "仓鼠宝宝",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，订阅配置更顺畅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择合适的套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_DESCRIPTION": "，仓鼠宝宝提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，设备在线数从 3 台到 20 台，适合个人、家庭和小团队按需选择。",
+          "AI_FAQ_ANSWER_1": "基础版 ¥15/月，年付 ¥150/年，每月 100GB 流量，支持 3 台设备同时在线，适合轻度使用。",
+          "AI_FAQ_ANSWER_2": "旗舰版 ¥35/月，年付 ¥350/年，每月 300GB 流量，支持 5 台设备在线，且包含 IPLC 专线游戏加速优化。",
+          "AI_FAQ_ANSWER_3": "团队版 ¥85/月，年付 ¥850/年，每月 1000GB 流量，支持 20 台设备同时在线，并提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FAQ_ANSWER_4": "先在设备上安装对应客户端，再按客户端文档导入订阅链接，完成后即可选择节点使用。",
+          "AI_FAQ_ANSWER_5": "年付比月付更划算，基础版年付 ¥150/年，旗舰版年付 ¥350/年，团队版年付 ¥850/年，长期使用建议选择年付。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版相比基础版多了什么？",
+          "AI_FAQ_QUESTION_3": "团队版能支持多少设备同时在线？",
+          "AI_FAQ_QUESTION_4": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_5": "年付和月付有什么区别？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度比较套餐，能更快找到合适的那一档。",
+          "AI_FEATURES_TITLE": "套餐维度",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按日常用量选择即可。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，多设备同时在线不受干扰。",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点。",
+          "AI_FEATURE_TITLE_1": "流量档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "线路与节点",
+          "AI_GUIDE_INTRO": "先确定套餐，再检查设备适配，最后按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步使用指引",
+          "AI_HERO_INTRO": "仓鼠宝宝提供基础版、旗舰版和团队版三档海外加速订阅，月流量从 100GB 到 1000GB，支持多台设备同时在线。选择套餐后，按照客户端文档完成订阅配置即可使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐可选，月流量最高 1000GB",
+          "AI_HIGHLIGHT_2": "单账号支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线游戏加速优化",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别只需 ¥150/年、¥350/年、¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "浏览基础版、旗舰版和团队版，根据月流量、设备在线数和线路类型确定适合自己的套餐。",
+          "AI_STEP_TEXT_2": "确认常用设备的数量与系统，对照套餐支持的在线设备数，避免超出同时在线限制。",
+          "AI_STEP_TEXT_3": "选择对应客户端，按照客户端文档导入订阅链接，完成后即可切换节点使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "仓鼠宝宝订阅套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nm0kue.cn",
+    "host": "nm0kue.cn"
+  },
+  "file_hashes": {
+    "index.html": "a563d471941120d15c05181b2035dcf8bc0785668f9847f8beff3ebf68dd2955",
+    "sitemap.xml": "6b8edcd6c1f3bf045df58849941d84ba1077237a9f5e0a5bebb99b367d5cf8b0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "10e5bd2310a1c9d8011da3ebf358515c6cab9110e0c1ef8dee11cf9afebdcdb9",
+    "robots.txt": "1050b5108275688a82dd6660f3830343d92485ea1c1ec4dab536fdb20b97970e",
+    "b42ba3186a47b863dedc83873520a9f9.txt": "82b9a830003a7a65f1346cc49ab72bae640e58bb0d81ac7def8eeef078764e4f"
+  },
+  "revision": "6b1bfd174259330fd68bbfd0e61ebfacb06eb89a3827b99330700d0a8fb6de57"
+}
